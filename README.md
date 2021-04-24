@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NK2317 (you can callme Nicolás or Vladimir)
+- 👀 I’m interested in continous learning about web technologies and cross-platform development
+- 🌱 I’m currently learning Brain.js to apply machine learning solutions
+- 💞️ I’m looking to collaborate on web development projects and open source platforms
+- 📫 Search me on telegram as @Sairus123 or send me a mail nikorosales2@gmail.com
