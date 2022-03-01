@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @NK2317 (you can callme Nicolás or Vladimir)
-- 👀 I’m interested in continous learning about web technologies and cross-platform development
-- 🌱 I’m currently learning Brain.js to apply machine learning solutions
-- 💞️ I’m looking to collaborate on web development projects and open source platforms
+- 👀 I’m interested in web / mobile fullstack development
+- 🌱 I’m currently using Vue / React / SSR / Node / Typescript / Javascript and Serverless tech-stack like Amplify
+- 💞️ I’m looking to collaborate on open-source javascript apps!
 - 📫 Search me on email as nikorosales2@gmail.com
+- 👨‍💼Im currently working as a consultor for NearShore Technology, Blueriver and mura: https://github.com/murasoftware/mura-cloud
+- 😄 Happy coding!
