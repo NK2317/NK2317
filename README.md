@@ -3,5 +3,5 @@
 - 🌱 I’m currently using Vue / React / SSR / Node / Typescript / Javascript and Serverless tech-stack like Amplify
 - 💞️ I’m looking to collaborate on open-source javascript apps!
 - 📫 Search me on email as nikorosales2@gmail.com
-- 👨‍💼Im currently working as a consultor for NearShore Technology, Blueriver and mura: https://github.com/murasoftware/mura-cloud
+- 👨‍💼Im currently working as a an independent contractor
 - 😄 Happy coding!
