@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NK2317 (you can callme Nicolás or Vladimir)
+- 👋 Hi, I’m @NK2317 (you can call me Nicolás or Vladimir)
 - 👀 I’m interested in web / mobile fullstack development
 - 🌱 I’m currently using Vue / React / SSR / Node / Typescript / Javascript and Serverless tech-stack like Amplify
 - 💞️ I’m looking to collaborate on open-source javascript apps!
